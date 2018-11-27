@@ -1,2 +1,3 @@
-class BoardMember
-
+class BoardMember {
+  
+}
